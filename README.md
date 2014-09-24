@@ -4,6 +4,8 @@ Esta aplicación permite saber cual de los amigos(following) de una persona de t
 
 ### Modo de uso
 
+Antes de iniciar el servidor ejecutar `bundle install`
+
 Para arrancar el servidor situese en el directorio y ejecute `rake` o `rake init` luego abra un navegador y vaya a la direccion localhost:4567
 
 **Jazer Abreu -> alu0100595727**
